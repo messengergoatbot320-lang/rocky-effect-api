@@ -1,7 +1,7 @@
 {
   "name": "rocky-effect-api",
-  "version": "1.0.0",
-  "description": "FCA Rocky Chowdhury Effect API",
+  "version": "2.0.0",
+  "description": "Rocky Chowdhury Effect API - All Messenger Send Effects",
   "main": "api/index.js",
   "scripts": {
     "start": "node api/index.js"
